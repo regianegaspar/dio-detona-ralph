@@ -49,3 +49,10 @@
     background-image: url(../images/ralph.png);
     background-size: cover;
 }
+
+@media screen and (max-width: 700px){
+    .square{
+        height: 100px;
+        width: 100px;
+    }
+}
